@@ -1,0 +1,9 @@
+{
+	"name": "naaadfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cb5a0ee-d597-4afb-8918-831bd5a566db",
+		"tenantId": "869b7fdc-aa4c-42e1-af2f-b0ca8df1ac68"
+	}
+}
